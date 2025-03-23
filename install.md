@@ -11,8 +11,6 @@ title: Installation - CobbleVerse
 
   📦 **[Télécharger CurseForge](https://download.overwolf.com/install/Download?ExtensionId=cfiahnpaolfnlgaihhmobmnjdafknjnjdpdabpcm&utm_term=eyJkb21haW4iOiJjZi13ZWIiLCJnYW1lSWQiOjQzMiwicHJvamVjdElkOjgyMTc0OH0)**
 
----
-
 ## 2. 📦 Installer le modpack CobbleVerse
 
 1. Ouvrez CurseForge et sélectionnez **Minecraft**.
@@ -29,8 +27,6 @@ Pour une expérience optimale, nous recommandons d'allouer au moins **4 Go de RA
 - Dans CurseForge, allez dans **Paramètres** (en bas à gauche).
 - Sélectionnez **Minecraft** puis l'onglet **Java Settings**.
 - Modifiez la valeur de **Allocated Memory** à 4096 Mo (ou plus si votre ordinateur le permet).
-
----
 
 ## 4. Ordre des packs de ressources (Important)
 
@@ -64,6 +60,12 @@ Pour que tous les éléments visuels du jeu fonctionnent correctement, il est **
 1. Lancez Minecraft avec le modpack CobbleVerse.
 2. Dans le menu principal, allez dans **Options** puis **Packs de ressources**.
 3. Déplacez les packs de ressources listés ci-dessus vers la colonne de droite et classez-les dans l'ordre indiqué. Déplacez tous les packs de ressources non listés vers la colonne de gauche pour les désactiver.
+
+---
+
+## 5. 🔄 Mise à jour du modpack
+
+Pour consulter les informations complètes sur les mises à jour du modpack, y compris les instructions d'installation et l'historique des changements, rendez-vous sur notre page dédiée aux [mises à jour](/updates).
 
 ---
 
