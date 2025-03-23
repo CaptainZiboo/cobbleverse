@@ -63,8 +63,7 @@ Pour que tous les éléments visuels du jeu fonctionnent correctement, il est **
 
 1. Lancez Minecraft avec le modpack CobbleVerse.
 2. Dans le menu principal, allez dans **Options** puis **Packs de ressources**.
-3. Déplacez les packs de ressources listés ci-dessus vers la colonne de droite et classez-les dans l'ordre indiqué.
-4. Déplacez tous les packs de ressources non listés vers la colonne de gauche pour les désactiver.
+3. Déplacez les packs de ressources listés ci-dessus vers la colonne de droite et classez-les dans l'ordre indiqué. Déplacez tous les packs de ressources non listés vers la colonne de gauche pour les désactiver.
 
 ---
 
