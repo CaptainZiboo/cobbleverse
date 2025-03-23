@@ -33,7 +33,7 @@ Bienvenue sur la page des mises à jour de **CobbleVerse** ! Vous trouverez ici 
 
 ### 🆕 Dernière version : **v1.0.0** _(23/03/2025)_
 
-- 📦 **Version original du modpack**
+- 📦 **Version originale du modpack**
 - 🔧 **Amélioration des performances du modpack**
 - 🆕 **Ajout de nouveaux Pokémon, formes et objets**
 - 🛠️ **Correction de bugs divers**
