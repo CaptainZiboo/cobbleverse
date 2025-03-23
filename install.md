@@ -17,7 +17,7 @@ title: Installation - CobbleVerse
 
 1. Ouvrez CurseForge et sélectionnez **Minecraft**.
 2. Allez dans l'onglet **Mes Modpacks**.
-3. Cliquez sur **Importer** et sélectionnez le modpack CobbleVerse :
+3. Cliquez sur **Importer** et sélectionnez le modpack CobbleVerse :  
    📦 **[Télécharger le modpack CobbleVerse](/modpack.zip)**
 4. Laissez CurseForge installer les fichiers nécessaires.
 5. Une fois l'installation terminée, cliquez sur **Jouer** pour rejoindre CobbleVerse !
