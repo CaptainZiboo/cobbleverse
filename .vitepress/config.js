@@ -24,8 +24,10 @@ export default {
             text: "Whitelist",
             link: "/whitelist",
           },
+          { text: "Règlement", link: "/rules" },
           { text: "Installation", link: "/install" },
           { text: "Mises à jour", link: "/updates" },
+
           { text: "Bien débuter", link: "/beginner-guide" },
           { text: "Bugs connus", link: "/bugs" },
           { text: "FAQ", link: "/faq" },
@@ -39,6 +41,7 @@ export default {
           { text: "Combats / Duels", link: "/versus" },
           { text: "Stockage & Sacs", link: "/storage" },
           { text: "Shiny & Lunes", link: "/shiny" },
+          { text: "Arènes", link: "/arenas" },
         ],
       },
       {
