@@ -1,3 +1,8 @@
+---
+layout: doc
+title: Arènes - CobbleVerse
+---
+
 # Les Arènes de CobbleVerse
 
 Sur **CobbleVerse**, les joueurs les plus **investis et talentueux** auront la possibilité d'ouvrir **leur propre arène** ! Avec du temps, de l'implication et un projet bien construit, vous pourrez devenir **Champion d'Arène** et marquer l'histoire du serveur.
