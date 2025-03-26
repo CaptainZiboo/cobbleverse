@@ -36,6 +36,7 @@ Le serveur **CobbleVerse** repose sur trois valeurs essentielles : **respect, bi
 ### 🏗 Respect des constructions & grief
 
 - **Le grief est formellement interdit** : ne **détruisez, modifiez ou volez** aucune construction d’un autre joueur. Il n’y a **pas de système protection / réclamation des zones**, donc nous comptons sur la **bienveillance et l’entraide**.
+- Il est également interdit de voler les **waystones** posées par d'autres joueurs ! Vous pouvez les utilisez, mais vous **devez** les laisser en place ! Vous pouvez déplacer une waystone **uniquement si vous avez l'accord du joueur qui l'a posée** !
 - **Les constructions existantes sur la map doivent être préservées**. Vous pouvez bâtir à proximité, mais jamais **dedans** ni en **remplaçant** un build existant.
 - Si vous endommagez **accidentellement** une construction (ex : un build caché dans un biome naturel), **présentez vos excuses et aidez à réparer**.
 
