@@ -32,19 +32,19 @@ Pour une expérience optimale, nous recommandons d'allouer au moins **4 Go de RA
 
 Pour que tous les éléments visuels du jeu fonctionnent correctement, il est **crucial** de classer les packs de ressources dans l'ordre suivant et de **désactiver tous les autres packs** non listés :
 
-1. Cobblemon Interface Modded
-2. Cobblemon Interface
-3. Moonlight Mods Dynamic Assets
-4. Star Academy
-5. BattleBond
-6. Vivillon Pride Patterns
-7. bopack
-8. Fix pokemon in 2d star academy
-9. Cobblemon Icons corrected
-10. CobbleCafe
-11. SmoothFont
-12. Border-Makeover-Style
-13. EclecticTrove
+1. EclecticTrove
+2. Cobblemon Interface Modded
+3. Cobblemon Interface
+4. Moonlight Mods Dynamic Assets
+5. Star Academy
+6. BattleBond
+7. Vivillon Pride Patterns
+8. bopack
+9. Fix pokemon in 2d star academy
+10. Cobblemon Icons corrected
+11. CobbleCafe
+12. SmoothFont
+13. Border-Makeover-Style
 14. VidyaPokeCriesCobblemon
 15. EmbellishedStone
 16. Journeymap-Cobblemon

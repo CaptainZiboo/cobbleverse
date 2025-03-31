@@ -41,6 +41,7 @@ export default {
           { text: "Combats / Duels", link: "/versus" },
           { text: "Stockage & Sacs", link: "/storage" },
           { text: "Shiny & Lunes", link: "/shiny" },
+          { text: "Machines", link: "/machines" },
           { text: "Arènes", link: "/arenas" },
         ],
       },

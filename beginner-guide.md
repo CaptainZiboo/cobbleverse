@@ -17,6 +17,12 @@ Ensuite, appuyez sur la touche **C** pour ouvrir l'interface de sélection de st
 
 ![Sélection de Starter](/raffle.jpg)
 
+## Machines Gacha / à Pince
+
+Après avoir choisi un starter, un jeton de casino vous sera offert ! Pensez à aller le dépenser dans les machines de jeu qui seront disponibles au centre pokémon ou au magasin de l'académie ! Peut être la chance vous offrira un cadeau exceptionnel... 🤩
+
+![Machines](/machines.png)
+
 ## Exploration et découverte ️
 
 Une fois votre starter choisi, l'aventure commence ! Explorez le vaste monde de CobbleVerse, découvrez des paysages variés, trouvez des coffres cachés, visitez des villages et rencontrez de nouveaux Cobblemons. Chaque recoin de ce monde regorge de surprises et de défis.

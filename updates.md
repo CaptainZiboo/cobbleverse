@@ -31,10 +31,9 @@ Bienvenue sur la page des mises à jour de **CobbleVerse** ! Vous trouverez ici 
 
 ## 📜 Changelogs
 
-### 🆕 Dernière version : **v1.0.0** _(23/03/2025)_
+### 🆕 Dernière version : **v1.1.0** _(31/03/2025)_
 
-- 📦 **Version originale du modpack**
-- 🔧 **Amélioration des performances du modpack**
+- 📦 **Version mise à jour du modpack**
 - 🆕 **Ajout de nouveaux Pokémon, formes et objets**
 - 🛠️ **Correction de bugs divers**
 
@@ -43,6 +42,13 @@ _cf. Historique desmises à jour pour plus de détails..._
 [📦 Télécharger la dernière version](/modpack.zip)
 
 ### 📜 Historique des mises à jour
+
+#### **v1.1.0** _(31/03/2025)_
+
+- Ajout de toutes les formes de Genesect
+- Ajout des machines Gacha et machine à pince
+- Ajout des encens Génération, Baby et Starter
+- Ajout de toutes les formes de Silvallié
 
 #### **v1.0.0** _(23/03/2025)_
 

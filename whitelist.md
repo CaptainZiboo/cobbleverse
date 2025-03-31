@@ -34,7 +34,7 @@ Un message de confirmation vous indiquera que vous avez été ajouté à la whit
 Lancez Minecraft et connectez-vous à l'adresse du serveur CobbleVerse pour comencer l'aventure ! Vous ne savez pas par ou commencer ? Suivez le [guide du débutant](/beginner-guide) !
 
 ```
-... SOON ...
+play.cobbleverse.fr
 ```
 
 ## ❓ Besoin d'aide ?

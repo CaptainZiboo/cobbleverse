@@ -26,7 +26,7 @@ CobbleVerse est un serveur Minecraft moddé basé sur Cobblemon, alliant aventur
 🔹 **Rejoindre le Discord** → [MatesVerse](https://discord.gg/Cd8p5vfGCX)  
 🔹 **Obtenir ma Whitelist** → [Guide whitelist](/whitelist)  
 🔹 **Installer le Modpack** → [Guide d'installation](/install)  
-🔹 **Se connecter** → `... SOON ...`
+🔹 **Se connecter** → `play.cobbleverse.fr`
 
 📌 _Version requise :_ Minecraft 1.20.1 avec Cobblemon
 
