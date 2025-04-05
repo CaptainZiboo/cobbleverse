@@ -33,15 +33,19 @@ Bienvenue sur la page des mises à jour de **CobbleVerse** ! Vous trouverez ici 
 
 ### 🆕 Dernière version : **v1.1.0** _(31/03/2025)_
 
-- 📦 **Version mise à jour du modpack**
-- 🆕 **Ajout de nouveaux Pokémon, formes et objets**
-- 🛠️ **Correction de bugs divers**
+- 🆕 **Ajout du mod Create + Add-ons**
+- 🆕 **Ajout d'une nouvelle dimension "Aether"**
 
 _cf. Historique desmises à jour pour plus de détails..._
 
 [📦 Télécharger la dernière version](/modpack.zip)
 
 ### 📜 Historique des mises à jour
+
+#### **v1.2.0** _(05/04/2025)_
+
+- Ajout du mod Create + Add-ons
+- Ajout d'une nouvelle dimension "Aether"
 
 #### **v1.1.0** _(31/03/2025)_
 
